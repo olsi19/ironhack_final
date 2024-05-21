@@ -1,6 +1,9 @@
 Project Title
+
 Netflix Recommendation System
+
 Description
+
 This project encompasses various stages including data cleaning, visualization, in-depth data analysis, and the development of a machine learning model to provide recommendations. The dataset utilized in this project is sourced from Kaggle. The data:Netflix Movies and TV Shows shape(8807,12)
 
 The primary objectives include:
