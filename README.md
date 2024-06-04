@@ -19,3 +19,4 @@ Data Visualization: Creating visual representations to better understand the dat
 Data Analysis: Conducting comprehensive analysis to extract meaningful insights from the dataset.
 
 Building a Recommendation System: Developing a machine learning model to offer personalized recommendations based on user preferences.
+After building a movie recommendation system i used streamlit frame-work to make suggestions.
